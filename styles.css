@@ -23,3 +23,15 @@ button {
 button:hover {
     background: #005f73;
 }
+#photo-section {
+    text-align: center;
+    margin: 30px;
+}
+
+#profile-photo {
+    width: 150px; /* Adjust as needed */
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #008CBA; /* Optional border */
+}
