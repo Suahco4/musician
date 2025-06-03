@@ -74,3 +74,22 @@ button {
 button:hover {
     background: #005f73;
 }
+#info-list {
+    width: 30%;
+    text-align: left;
+    padding: 20px;
+    background: #f4f4f4;
+    border-left: 4px solid #008CBA;
+    position: absolute;
+    left: 20px;
+    top: 150px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
