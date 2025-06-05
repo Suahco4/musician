@@ -80,7 +80,7 @@ button:hover {
     padding: 20px;
     background: #f4f4f4;
     border-left: 4px solid #008CBA;
-    position: absolute;
+    position: fixed;
     left: 20px;
     top: 150px;
 }
