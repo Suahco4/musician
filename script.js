@@ -14,7 +14,7 @@ function toggleInfo() {
                 <li><strong>Name:</strong> Emmanuel Suah</li>
                 <li><strong>Profession:</strong> Musician, Community Leader, Aspiring Educator</li>
                 <li><strong>Skills:</strong> Web Development, Music Production, Teaching Techniques</li>
-                <li><strong>Interests:</strong> Ministry Outreach, Music Promotion, Education</li>
+                <li><strong>Interests:</strong> Music Promotion, Education</li>
             </ul>
         `;
     } else {
